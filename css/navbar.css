@@ -1,0 +1,17 @@
+#navbar{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    background-color: grey;
+    padding: 10px 0px
+  }
+  #search_input{
+    width: 1000px;
+    height: 30px;
+    border-radius: 20px;
+    font-size: 22px;
+  }
+  a{
+      text-decoration: none;
+      color: white;
+  }
